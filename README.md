@@ -1,18 +1,235 @@
-# 💫 About Me:
-I am a Computer Science Engineering graduate (2025) with hands-on experience in Python development and full-stack web technologies. My academic and internship work focuses on building functional, user-oriented applications using Python, HTML, CSS, JavaScript, and SQL.<br><br>I have completed multiple internships where I developed end-to-end applications, including e-commerce systems, task management tools, and responsive web interfaces. These experiences strengthened my understanding of software development fundamentals, object-oriented programming, data handling, and UI responsiveness.<br><br>I have also worked on machine learning and computer vision–based projects, such as web vulnerability detection and suspicious activity recognition from surveillance videos. Through these projects, I gained practical exposure to model integration, real-time data processing, and deployment-oriented development, rather than purely theoretical implementation.<br><br>I am seeking an entry-level software development role where I can apply my technical skills, contribute to real-world projects, and continue developing strong problem-solving and backend development capabilities.
+<div align="center">
 
+# 👋 Hey, I'm Megavath Akhil Kumar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/akhil-kumar-03jul03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viratakhil184@gmail.com) 
+### Software Developer • Enterprise ERP Systems • Full Stack & Generative AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkhilRathod03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AkhilRathod03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRathod03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/AkhilRathod03">
+    <img src="https://img.shields.io/badge/GitHub-AkhilRathod03-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:akhil.megavath03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhilmegavath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@akhil_rathod03">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AkhilRathod03&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AkhilRathod03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am a **Software Developer** with hands-on experience in full-stack engineering, enterprise ERP platforms, and AI-driven web architectures. Currently, I'm contributing to live production systems, designing scalable REST APIs, and integrating Google Gemini AI into real-world applications.
+
+* 💼 **Software Developer Intern** at **Euroasiann Marine Spares Pvt Ltd** — building features and UI enhancements on a live, multi-portal maritime procurement ERP platform (Vendor, Customer, Admin, Port Agent portals), validating real-time WebSockets, and performing full-cycle UAT & regression testing.
+* 🎓 **B.Tech in Computer Science Engineering** (2021 – 2025) from Malla Reddy Institute of Technology, Hyderabad.
+* 🤖 Built **[CurveIQ](https://github.com/AkhilRathod03/CurveIQ.git)** (Centralized Curriculum Management System) during software internship at **Synycs** — full-stack multi-tenant platform with role-based access control and prompt-driven curriculum generation using the **Google Gemini API**.
+* 🥗 Developed **[SmartFit AI](https://github.com/AkhilRathod03/SmartFit-AI-Planner)** during **IBM SkillsBuild / AICTE** internship — delivering AI-assisted diet and workout recommendations via BMR calculations across 2,000+ food records.
+* ⚡ Proficient across **React, Python, Django, Django REST Framework, PostgreSQL, Oracle SQL, and WebSockets**.
+* 🎯 Focused on building scalable systems, optimizing backend databases, and shipping clean, maintainable code.
+* 📂 Check out my projects: **[GitHub Repositories](https://github.com/AkhilRathod03?tab=repositories)**
+* 📫 Reach me at: **[akhil.megavath03@gmail.com](mailto:akhil.megavath03@gmail.com)**
+
+---
+
+## 🧠 What I Work With
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css" alt="Languages"/>
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,bootstrap,html,css" alt="Frontend"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask" alt="Backend and APIs"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,vercel,docker" alt="Databases and Cloud"/>
+</p>
+
+### 🛠️ DevOps, Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="DevOps and Tools"/>
+</p>
+
+### 🤖 AI, ML & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,pandas,numpy,sklearn" alt="AI, ML and Data"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 CurveIQ — Centralized Curriculum System
+
+Full-stack multi-tenant academic management platform with role-based access control (Admin, Faculty, Student), Gemini API integration for prompt-driven automated curriculum generation, JWT auth, FullCalendar conflict detection, and Recharts analytics.
+
+**Tech:** React.js • Django REST Framework • Google Gemini API • PostgreSQL • JWT • Vercel
+
+🔗 **[View Repository](https://github.com/AkhilRathod03/CurveIQ.git)** • 🌐 **[Live Demo](https://curveiq-two.vercel.app/login)**
+
+</td>
+
+<td width="50%">
+
+### 🥗 SmartFit AI — Workout & Diet Planner
+
+AI-assisted fitness and health recommendation platform calculating BMR and filtering personalized food and workout recommendations from a cleaned nutrition dataset across 2,000+ records.
+
+**Tech:** Python • Streamlit • Pandas • NumPy • Machine Learning
+
+🔗 **[View Repository](https://github.com/AkhilRathod03/SmartFit-AI-Planner)** • 🌐 **[Live Demo](https://smartfit-ai-planner.streamlit.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Big Basket Clone — E-Commerce Frontend
+
+High-performance e-commerce platform built with React and Redux. Features complex state management for cart operations, dynamic product catalog filtering, and responsive mobile-first shopping UX.
+
+**Tech:** React.js • Redux • Bootstrap • REST API • Vercel
+
+🔗 **[View Repository](https://github.com/AkhilRathod03/Bigbasket_React_Project.git)** • 🌐 **[Live Demo](https://bigbasket-react-project.vercel.app)**
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Web Vulnerability & Surveillance Detection
+
+Machine learning and computer vision systems for automated CSRF web traffic vulnerability detection and real-time deep learning surveillance activity recognition.
+
+**Tech:** Python • Flask • TensorFlow • OpenCV • Deep Learning
+
+🔗 **[Explore All Projects](https://github.com/AkhilRathod03?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/AkhilRathod03?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="All repositories"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+### 📈 Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRathod03&theme=github_dark" alt="GitHub profile contribution overview"/>
+</p>
+
+### ⭐ Repositories, Stars & GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkhilRathod03&theme=github_dark" width="49%" alt="GitHub statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkhilRathod03&theme=github_dark" width="49%" alt="Repositories per language"/>
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkhilRathod03&theme=github_dark" width="49%" alt="Most committed languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRathod03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilRathod03&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📅 Recent Commit Activity
+
+<p align="center">
+  <a href="https://github.com/AkhilRathod03">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhilRathod03&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkhilRathod03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/akhilmegavath">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akhil.megavath03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/AkhilRathod03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@akhil_rathod03">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> **Build with purpose. Architect for scalability. Learn relentlessly.**
+>
+> Great software isn't just about writing code — it's about solving real-world problems with robust architectures, seamless user experiences, and continuous curiosity.
+
+---
+
+<div align="center">
+
+### ⭐ If you find my projects helpful, feel free to explore and star them!
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
+
+###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkhilRathod03/AkhilRathod03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkhilRathod03/AkhilRathod03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkhilRathod03/AkhilRathod03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+###
